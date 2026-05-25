@@ -8,6 +8,8 @@ Curated [Claude Code](https://claude.com/claude-code) skills. Loaded into
 | Name | Source | Description |
 | --- | --- | --- |
 | `grill-with-docs` | vendored from [mattpocock/skills](https://github.com/mattpocock/skills) | Interview-style design exploration that updates `CONTEXT.md` and ADRs inline. |
+| `grill-me` | vendored from [mattpocock/skills](https://github.com/mattpocock/skills) | Stripped-down grilling session — interview the user until shared understanding is reached. |
+| `handoff` | vendored from [mattpocock/skills](https://github.com/mattpocock/skills) | Compact the current conversation into a handoff doc for a fresh agent to pick up. |
 
 ## Vendoring
 
